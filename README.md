@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ydroopert from TW
-- 👀 I’m interested in ... 
+- 👀 I’m interested in Gaming/Coding/Tennis/reading
 - 🌱 I’m currently learning WebDev 
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on pretty much anything 
 - 📫 How to reach me ... ydroopert@gmail.com
 
 <!---
